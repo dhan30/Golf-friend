@@ -1,2 +1,6 @@
 # Golf-friend
-UPDATING**
+
+
+Update coming soon with React.js!! 
+
+
